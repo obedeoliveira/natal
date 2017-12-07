@@ -13,7 +13,7 @@ body {
   padding: 0;
   overflow: hidden;
 }
-
+audio {display:none;}
 .card {
   -webkit-perspective: 1500px;
   perspective: 1500px;
